@@ -21,7 +21,7 @@ function App() {
         </a>
       </header>
       <MessengerChat
-    pageId="109268111769502"
+    pageId="1808545326023576"
     language="sv_SE"
     themeColor={"#000000"}
     bottomSpacing={300}
